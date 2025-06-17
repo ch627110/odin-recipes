@@ -1,0 +1,8 @@
+/* style.css */
+
+* {
+    background-color: lightslategrey;
+    color: whitesmoke;
+    text-align: start;
+    font-family: 'Courier New', Courier, monospace;
+}
